@@ -4,7 +4,7 @@ local file transfer server that allows you to download folders as zip files.
 <img width="1178" height="353" alt="Screenshot 2025-08-22 021817" src="https://github.com/user-attachments/assets/2dfcfb85-646b-4b3a-9760-1ffa9d537a2b" />
 
 ## Instructions
-1. Create a folder that is called filelinker
+1. Create a folder that is called FileLinker (or whatever you want your file path folder name to be)
 2. Load folders or files you want downloadable in the folder
 3. Update the script with the appropriate path
 ```
@@ -16,7 +16,7 @@ def main():
 ```
 /Users/username/Downloads python.exe filelinker.py
 ```
-5. Follow the instructions in the command line and go to the network address listed.
+5. Follow the instructions in the command line and go to the Device URL and/or network address listed.
 ```
 🚀 SERVER STARTED!
 📱 Device URL: http://{local_ip}:{PORT}
